@@ -32,7 +32,12 @@ h1 {
  font-size: 30px;
     color: blue;   
 }
-
+.mycontents {
+display:table-cell;
+position: relative;
+text-align: center;
+vertical-align: middle;
+}
 h2 {
     font-size: 40px;
     color: blue;
@@ -40,12 +45,6 @@ h2 {
 h3{
 font-size: 25px;
     color: blue;
-}
-#hobby{
-display:table-cell;
-position: relative;
-text-align: center;
-vertical-align: middle;
 }
 .line{
 background-color: black;
